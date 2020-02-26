@@ -11,7 +11,7 @@ sys.path.append( os.path.abspath(os.path.join(os.path.dirname(__file__),'robot')
 from Parent_Robot import Parent_Robot
 from robot_slave import Robot_Slave
 
-from RPP_functions_1224 import get_polar_2_3D_nor
+from RPP_functions import get_polar_2_3D_nor
 import glob
 
 sys.path.append( os.path.abspath(os.path.join(os.path.dirname(__file__),'gripper')))
