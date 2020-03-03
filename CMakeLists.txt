@@ -5,7 +5,6 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   sensor_msgs
   dsr_msgs  
-  roslaunch
 )
 
 ###################################
